@@ -3,16 +3,19 @@
 
 This project is a **Weather Dashboard** application that allows users to search for cities and view current weather information along with a 7-day forecast. It's built using **React** with **Vite** for fast development, and it fetches weather data from **OpenWeatherMap** API. ⛅
 
-## 📸 Screenshots (Add your images here)
+## 📸 Screenshots
 
 ### Home Screen 🌍
-
+![Screenshot 2024-10-18 235537](https://github.com/user-attachments/assets/6d0862ee-87fa-443a-b05d-5469332c6de0)
 
 ### Search City 🔎
-![Search City Placeholder](https://via.placeholder.com/800x400)
+![Screenshot 2024-10-18 235551](https://github.com/user-attachments/assets/a8fa9d18-88f0-4043-9d9b-3ff7fcf6a87f)
 
 ### 7-Day Forecast 📅
-![7-Day Forecast Placeholder](https://via.placeholder.com/800x400)
+![Screenshot 2024-10-18 235813](https://github.com/user-attachments/assets/32b2f7ab-bc40-4193-99dc-92c811322ff0)
+
+### Current Location Detection and Weather Report ⚡
+![Screenshot 2024-10-18 235953](https://github.com/user-attachments/assets/1fc0b3ce-aae5-4e2e-866f-b48538cc5df2)
 
 ---
 
