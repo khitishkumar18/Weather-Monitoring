@@ -6,7 +6,7 @@ This project is a **Weather Dashboard** application that allows users to search 
 ## 📸 Screenshots (Add your images here)
 
 ### Home Screen 🌍
-![Home Screen Placeholder](https://via.placeholder.com/800x400)
+
 
 ### Search City 🔎
 ![Search City Placeholder](https://via.placeholder.com/800x400)
@@ -80,9 +80,11 @@ Once started, the app will be available at [http://localhost:3000](http://localh
 │   └── index.html
 ├── src/
 │   ├── components/
-│   │   ├── SearchBar.jsx
-│   │   ├── WeatherCard.jsx
-│   │   └── ForecastCard.jsx
+│   │   ├── Forecast.jsx
+│   │   ├── Inputs.jsx
+│   │   └── TempAndDetails.jsx
+│   │   └── TimeAndLocation.jsx
+│   │   └── TopButtons.jsx
 │   ├── App.jsx
 │   ├── index.jsx
 │   └── styles.css
@@ -102,10 +104,4 @@ This project fetches weather data using the **OpenWeatherMap API**. You need to 
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/yourgithubprofile)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+- [Khitish Kumar Nayak](https://khitishkumar18/)
