@@ -104,4 +104,4 @@ This project fetches weather data using the **OpenWeatherMap API**. You need to 
 
 ## 👥 Contributors
 
-- [Khitish Kumar Nayak](https://khitishkumar18/)
+- [Khitish Kumar Nayak](https://github.com/khitishkumar18)
